@@ -204,6 +204,13 @@
     font-size: 16px;
     font-weight: 400;
 }
+.wrapper-btn__more-profuct{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    padding: 40px 0 100px 0;
+}
 .btn__more-profuct{
     text-decoration: none;
     color: #f26376;
@@ -211,10 +218,7 @@
     font-weight: 400;
     padding:15px 40px;
     border: 1px solid #ff6a6a;
-    text-align: center;
-    grid-column:-3/-2;
-    margin-bottom: 95px;
-    margin-top: 20px;
+    
 }
 .btn__more-profuct:hover{
     background-color: #ff6a6a;
